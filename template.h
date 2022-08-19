@@ -2,7 +2,7 @@
  * Copyright (C)
  *
  * NAME:
- *		tmeplate.h
+ *		template.h
  * DESCRIPTION:
  *      header file of template.c
 *******************************************************************************/
